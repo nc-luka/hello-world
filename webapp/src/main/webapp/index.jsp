@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Przykladowa strona rejestracji</h1>
-    <p>Prosze uzupełnij dane formularza.</p>
+    <p>Prosze uzupelnij dane formularza.</p>
     <hr>
      
     <label for="Name"><b>Wpisz imie</b></label>
@@ -27,7 +27,7 @@
     <button type="submit" class="registerbtn">Zarejestruj</button>
   </div>
   <div class="container signin">
-    <p>Masz juz konto? <a href="#">Sign in</a>.</p>
+    <p>Masz juz konto? <a href="#">Zaloguj sie</a>.</p>
   </div>
 
    <h1> Praca Magisterska Lukasz Kaniecki </h1>
