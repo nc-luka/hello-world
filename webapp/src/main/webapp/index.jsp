@@ -1,37 +1,36 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register new user</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>Przykład prostej strony</h1>
+    <p>Prosze uzupełnij dane formularza.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Wpisz imię</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>enter mobile</b></label>
+    <label for="mobile"><b>Podaj numer telefonu</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
     <br>
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Podaj email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Hasło</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Powtórz hasło</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Masz już konto? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, happy learning </h1>
+   <h1> Praca Magisterska Łukasz Kaniecki </h1>
 
   
 </form>
