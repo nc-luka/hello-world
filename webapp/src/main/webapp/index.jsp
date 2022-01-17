@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Przykład prostej strony</h1>
+    <h1>Przykladowa strona rejestracji</h1>
     <p>Prosze uzupełnij dane formularza.</p>
     <hr>
      
-    <label for="Name"><b>Wpisz imię</b></label>
+    <label for="Name"><b>Wpisz imie</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -16,21 +16,21 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Hasło</b></label>
+    <label for="psw"><b>Haslo</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Powtórz hasło</b></label>
+    <label for="psw-repeat"><b>Powtorz haslo</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registerbtn">Zarejestruj</button>
   </div>
   <div class="container signin">
-    <p>Masz już konto? <a href="#">Sign in</a>.</p>
+    <p>Masz juz konto? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Praca Magisterska Łukasz Kaniecki </h1>
+   <h1> Praca Magisterska Lukasz Kaniecki </h1>
 
   
 </form>
